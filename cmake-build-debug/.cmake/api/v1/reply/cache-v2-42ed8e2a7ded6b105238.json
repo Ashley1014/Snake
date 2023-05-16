@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/yuzijiang/CLionProjects/Snake/cmake-build-debug"
+			"value" : "/Users/yuzijiang/Desktop/Job Hunting/\u8302\u6e90/Snake/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -479,7 +479,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/yuzijiang/CLionProjects/Snake/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/yuzijiang/Desktop/Job Hunting/\u8302\u6e90/Snake/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -539,7 +539,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/yuzijiang/CLionProjects/Snake"
+			"value" : "/Users/yuzijiang/Desktop/Job Hunting/\u8302\u6e90/Snake"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -1111,7 +1111,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/yuzijiang/CLionProjects/Snake/cmake-build-debug"
+			"value" : "/Users/yuzijiang/Desktop/Job Hunting/\u8302\u6e90/Snake/cmake-build-debug"
 		},
 		{
 			"name" : "Snake_IS_TOP_LEVEL",
@@ -1135,7 +1135,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/yuzijiang/CLionProjects/Snake"
+			"value" : "/Users/yuzijiang/Desktop/Job Hunting/\u8302\u6e90/Snake"
 		}
 	],
 	"kind" : "cache",

@@ -31,8 +31,8 @@ void Setup()
     x = WIDTH / 2;
     y = HEIGHT / 2;
     srand(time(NULL));
-    foodX = rand() % WIDTH == 0 ? (rand() % WIDTH + 1) : (rand() % WIDTH);
-    foodY = rand() % HEIGHT == 0 ? (rand() % HEIGHT + 1) : (rand() % HEIGHT);
+    foodX = (rand() % WIDTH == 0 || rand() % WIDTH == WIDTH / 2) ? (rand() % WIDTH + 1) : (rand() % WIDTH);
+    foodY = (rand() % HEIGHT == 0 || rand() % HEIGHT == HEIGHT / 2) ? (rand() % HEIGHT + 1) : (rand() % HEIGHT);
     score = 0;
 }
 
@@ -156,6 +156,7 @@ void Logic()
 
 int main() {
     initscr();
+    cbreak();
     Setup();
 
     while (!gameOver)
